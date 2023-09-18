@@ -2,7 +2,7 @@ Package: VSR
 Title: A custom RStudio theme inspired by VSCode's default styling.
 Version: 1.0.0
 Authors@R: 
-    person("Scott", "Brown", , "first.last@example.com", role = c("aut", "cre"),
+    person("Scott", "Brown", , "scottdbrown7@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0009-0008-7332-4467"))
 Description: VSR is a package to install and activate a theme for RStudio inspired by VSCode's default styling.
 Imports: rstudioapi
