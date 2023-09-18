@@ -13,3 +13,7 @@ Developers can install VSR 1 of 3 ways:
 3.  **Upload the `rstheme` file directly.** Download `theme/vsr.rstheme`, then upload the .rstheme file in RStudio under Tools \> Global Options \> Appearance \> Add... (under "Editor Theme")
 
 **Important!** For best results, change the RStudio font to Cascadia Mono under Tools \> Global Options \> Appearance \> Editor Theme.
+
+## License
+
+VSR is distributed under the GNU General Public License v3.0. See LICENSE for details.
