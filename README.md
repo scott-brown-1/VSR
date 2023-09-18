@@ -8,8 +8,8 @@ VSR is a custom RStudio theme inspired by the default styling of VSCode. Statist
 
 Developers can install VSR 1 of 3 ways:
 
-1.  **Use the package's built in setup function.** Install the VSR package with \_\_\_\_\_, then run `setup_theme()`.
-2.  **Install the theme from rstudioapi.** Call `rstudioapi::addTheme(THEME_FILE_PATH, apply = TRUE)`.
+1.  **Use the package's built in setup function.** Install the VSR package with `install_github('scott-brown-1/VSR')`, then run `VSR::setup_theme()`.
+2.  **Install the theme from rstudioapi.** Call `rstudioapi::addTheme('https://raw.githubusercontent.com/scott-brown-1/VSR/main/theme/vsr.rstheme', apply = TRUE)`.
 3.  **Upload the `rstheme` file directly.** Download `theme/vsr.rstheme`, then upload the .rstheme file in RStudio under Tools \> Global Options \> Appearance \> Add... (under "Editor Theme")
 
 [**Important!**]{.underline}For best results, change the RStudio font to Cascadia Mono under Tools \> Global Options \> Appearance \> Editor Theme.
