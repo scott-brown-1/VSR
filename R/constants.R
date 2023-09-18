@@ -1,0 +1,1 @@
+THEME_FILE_PATH <- 'https://raw.githubusercontent.com/tkrabel/rstudio_atom_theme/master/atom.rstheme'
