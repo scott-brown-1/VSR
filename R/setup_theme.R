@@ -1,10 +1,17 @@
 source('./R/constants.R')
 
-##' Setup Theme
-##'
-##' @description Install and activate VSR rstheme file. Requires \pkg{\link{rstudioapi}} package.
-##' @import rstudioapi
-##' @export
+#' Setup Theme
+#'
+#' @description Install and activate VSR rstheme file.
+#'
+#' @import rstudioapi
+#' 
+#' @examples
+#' \dontrun{
+#' VSR::setup_theme()
+#' }
+#'
+#' @export
 setup_theme <- function(){
   cat('Installing and activating VSR theme.')
   tryCatch({

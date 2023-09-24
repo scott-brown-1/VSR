@@ -7,5 +7,11 @@
 setup_theme()
 }
 \description{
-Install and activate VSR rstheme file. Requires \pkg{\link{rstudioapi}} package.
+Install and activate VSR rstheme file.
+}
+\examples{
+\dontrun{
+VSR::setup_theme()
+}
+
 }
