@@ -1,12 +1,12 @@
 Package: VSR
-Title: A Custom RStudio Theme Inspired by VSCode
+Title: Setup a Custom 'RStudio' Theme Inspired by 'VSCode'
 Version: 1.0.0
 Authors@R: 
     person("Scott", "Brown", , "scottdbrown7@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0009-0008-7332-4467"))
-Description: Install and activate a theme inspired by VSCode's default styling.
+Description: Install and activate a theme inspired by the default styling of 'VSCode'.
 Imports: rstudioapi
-License: GPL-3 + file LICENSE
+License: GPL-3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3

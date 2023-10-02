@@ -1,4 +1,5 @@
-source('./R/constants.R')
+# Define path to install file
+THEME_FILE_PATH <- 'https://raw.githubusercontent.com/scott-brown-1/VSR/main/inst/theme/vsr.rstheme'
 
 #' Setup Theme
 #'
